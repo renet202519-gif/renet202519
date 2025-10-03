@@ -11,7 +11,7 @@ Welcome to my GitHub! 🚀
 ---
 
 ## 🔧 Tech & Tools
-- Languages: C++ (intrested, in Python, and Swift)
+- Languages: C++ (intrested in Python, and Swift)
 - Tools: Git, GitHub  
 - Currently exploring: Computer Science (C++)
 
