@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rene
 
-##Welcome to my GitHub! 🚀##
+##Welcome to my GitHub! 🚀
 ---
 
 ## 🌱 About Me
