@@ -5,26 +5,20 @@ Welcome to my GitHub! 🚀
 ## 🌱 About Me
 - 🎓 Currently studying Computer Science at the Univeristy of Texas Rio Grande Valley
 - 💻 Learning **C++**, and strengthening my **math & problem-solving** skills
-- 📚 Interested in **[insert topics: algorithms, biology, AI, etc.]**
+- 📚 Interested in Calculus, Algebra, and other STEM related topics.
 - ⚡ Fun fact: I enjoy running. 
 
 ---
 
 ## 🔧 Tech & Tools
-- Languages: C++
+- Languages: C++ (intrested, in Python, and Swift)
 - Tools: Git, GitHub  
 - Currently exploring: Computer Science (C++)
 
 ---
 
-## 📊 GitHub Stats
-![Rene's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
-- [Portfolio Website](https://YOUR-WEBSITE.com)  
+- LinkedIn: www.linkedin.com/in/renet19 
 - Email: renet202519@gmail.com 
 ---
 
