@@ -1,10 +1,9 @@
-# Hi there 👋, I'm Rene
-
-***Welcome to my GitHub! 🚀
+# Hi there 👋, I'm Rene Tovar
+Welcome to my GitHub! 🚀
 ---
 
 ## 🌱 About Me
-- 🎓 Currently studying **[your degree or field, e.g., Computer Science at XYZ University]**
+- 🎓 Currently studying Computer Science at the Univeristy of Texas Rio Grande Valley
 - 💻 Learning **C++**, and strengthening my **math & problem-solving** skills
 - 📚 Interested in **[insert topics: algorithms, biology, AI, etc.]**
 - ⚡ Fun fact: I enjoy running. 
