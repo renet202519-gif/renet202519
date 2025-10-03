@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Rene
 
-Welcome to my GitHub! 🚀  
-Im currently a student attending the Univerity of Texas at Rio Grande Valley interested in **C++ and Software developement**.  
-
+##Welcome to my GitHub! 🚀##
 ---
 
 ## 🌱 About Me
