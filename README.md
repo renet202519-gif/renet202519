@@ -26,7 +26,7 @@
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
 - [Portfolio Website](https://YOUR-WEBSITE.com)  
-- Email: [renet202519@gmail.com] 
+- Email: renet202519@gmail.com 
 ---
 
 ⭐️ Thanks for stopping by! Feel free to check out my projects and reach out.  
